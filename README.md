@@ -2,9 +2,10 @@
 Data Repository: Datasets and supporting files used for the analyses reported in the article Clinical Characteristics and Care of Craniofacial Anomalies.
 
 You can access the databases through the following links:
-
-Bogotá: DB_BOGOTA.xlsx
-Cali: DB_CALI.xlsx
+| Variable         | Definition                                                                      |
+| ---------------- | ------------------------------------------------------------------------------- |
+| **Bogota**       | [DB_BOGOTA.xlsx). ](https://github.com/sbguarnizop/Clinical-trajectories-patterns-in-the-care-of-craniofacial-anomalies/blob/9245a023d0103efa815f4d4dcf13941328c34f97/DB_BOGOTA.xlsx)          |
+| **Cali**         | [DB_CALI.xlsx](https://github.com/sbguarnizop/Clinical-trajectories-patterns-in-the-care-of-craniofacial-anomalies/blob/9245a023d0103efa815f4d4dcf13941328c34f97/DB_CALI.xlsx) |
 
 The dataset headers follow the structure shown below and are defined as:
 
