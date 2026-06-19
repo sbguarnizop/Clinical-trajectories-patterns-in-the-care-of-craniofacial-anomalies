@@ -1,5 +1,5 @@
 # Clinical-trajectories-patterns-in-the-care-of-craniofacial-anomalies
-Data Repository: Datasets and supporting files used for the analyses reported in the article Clinical Characteristics and Care of Craniofacial Anomalies.
+Data Repository: Datasets and supporting files used for the analyses reported in the article title **Clinical Characteristics and Care of Craniofacial Anomalies: An association rule analysis in Colombia (2026).**
 
 You can access the databases through the following links:
 | Variable         | Definition                                                                      |
